@@ -6,6 +6,10 @@ public class HelloWordGit {
 		// TODO Auto-generated method stub
 		
 		System.out.println("testando olá mundo");
+		System.out.println("testando olá mundo");
+		
+		
+		
 
 	}
 
